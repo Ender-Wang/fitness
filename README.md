@@ -1,6 +1,8 @@
-# fitness
+# Fitness
 
-A new Flutter project.
+A Hands-on Flutter project following this [YouTube video](https://youtu.be/D4nhaszNW4o?si=Yt5jxfVuJPmmicnl).
+
+<img src="https://github.com/Ender-Wang/fitness/assets/33310255/86b4be63-0b54-493a-ade0-f2bc3227bbfc" alt="Breakfast Home" width="300" height="auto">
 
 ## Getting Started
 
